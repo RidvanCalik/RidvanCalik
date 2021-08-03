@@ -13,6 +13,8 @@ Bildiğim ve öğrendiğim Back-end teknoloileri:
 
 ilgi alanlarım:  
 -Full stack
+-Yapay zeka
+-Makine öğrenmesi
 -Oyun geliştirme
 
 
