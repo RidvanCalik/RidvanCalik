@@ -19,6 +19,7 @@ I interested this techs:
 -Machine Learning  
 -Game Developing  
 
+<hr>  
 
 My education background:    
 Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
