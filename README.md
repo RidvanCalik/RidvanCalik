@@ -1,22 +1,22 @@
-Front-end developerım
-Full Stack development'a ilgim olduğu için Back-endle de ilgilenmeteyim
+Hi I'm Rıdvan, A.K.A Amateur Front-end Developer
+i'm developing myself on web techs...
 
-Bildiğim ve öğrendiğim Front-end teknoloileri:  
+Front-end techs I know and learning: 
 -Vuejs
 -Bootstrap
 -Jquery
 
-Bildiğim ve öğrendiğim Back-end teknoloileri:  
+Back-end techs I know and learning:  
 -Php
 -Mysql
 -Nodejs
 
-ilgi alanlarım:  
--Full stack
--Yapay zeka
--Makine öğrenmesi
--Oyun geliştirme
+I interested this techs:  
+-Full-stack web developing
+-Ai
+-Machine Learning
+-Game Developing
 
 
-Eğitimim:  
-Şehit Büyük Elçi İsmail Erez MTAL'den BT & Web programcılığı alanından mezun oldum
+My education background:  
+Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
