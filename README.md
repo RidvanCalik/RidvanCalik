@@ -1,6 +1,8 @@
 Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
  I'm developing myself on web techs...
 
+<hr>  
+
 Front-end techs I know and learning:  
 -Vuejs  
 -Bootstrap  
