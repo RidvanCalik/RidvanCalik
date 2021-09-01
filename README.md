@@ -1,5 +1,9 @@
 Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
  I'm developing myself on web techs...
+ 
+ 
+My education background:    
+Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
 
 <hr>  
 
@@ -21,5 +25,3 @@ I interested this techs:
 
 <hr>  
 
-My education background:    
-Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
