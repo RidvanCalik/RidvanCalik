@@ -8,7 +8,7 @@ My education background:
 <hr>  
 
 Front-end techs I know and learning:  
--Vuejs  
+-Vue.js  
 -Bootstrap  
 -Jquery  
 
