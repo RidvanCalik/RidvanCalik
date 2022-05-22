@@ -19,7 +19,7 @@ Back-end techs I know and learning:
 
 I interested this techs:  
 -Full-stack web developing  
--Ai  
+-WEB Desing & UI/UX Desing
 -Machine Learning  
 -Game Developing  
 
