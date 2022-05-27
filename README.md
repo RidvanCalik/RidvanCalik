@@ -11,9 +11,9 @@ My education background:
 
 Front-end techs I know and learning:  
 -Vue.js  
--Bootstrap
--Jquery
--Scss
+-Bootstrap  
+-Jquery  
+-Scss  
 
 
 Back-end techs I know and learning:  
