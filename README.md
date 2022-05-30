@@ -13,7 +13,7 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 
 
 **My certificates**  
-Web 101 from turkcell-gelecegiyazanlar >> https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101
+[Web 101 from turkcell-gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101)
 
 <hr>  
 
