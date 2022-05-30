@@ -7,7 +7,7 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 **My education background:**    
 Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
 
-**My certificates**
+**My certificates**  
 Web 101 from turkcell-gelecegiyazanlar >> https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101
 
 <hr>  
