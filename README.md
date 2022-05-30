@@ -18,16 +18,16 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 <hr>  
 
 **Front-end techs I know and learning:**  
--Vue.js  
--Bootstrap  
--Jquery  
--Scss  
+- Vue.js  
+- Bootstrap  
+- Jquery  
+- Scss  
 
 
 **Back-end techs I know and learning:**  
--Php  
--Mysql  
--Nodejs  
+- Php  
+- Mysql  
+- Nodejs  
 
 
 
