@@ -4,22 +4,28 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 <kbd>![](https://media1.giphy.com/media/nFFguNjdeotwc/giphy.gif?cid=ecf05e47l8xffyaa074cqmp4wh09mrmd30sih58631rk1bit&rid=giphy.gif&ct=g )</kbd>
 
 <br>
-My education background:    
+**My education background:**    
 Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
+
+**My certificates**
+Web 101 from turkcell-gelecegiyazanlar >> https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101
 
 <hr>  
 
-Front-end techs I know and learning:  
+**Front-end techs I know and learning:**  
 -Vue.js  
 -Bootstrap  
 -Jquery  
 -Scss  
 
 
-Back-end techs I know and learning:  
+**Back-end techs I know and learning:**  
 -Php  
 -Mysql  
 -Nodejs  
+
+
+
 
 I interested this techs:  
 -Full-stack web developing  
@@ -28,4 +34,5 @@ I interested this techs:
 -Game Developing  
 
 <hr>  
+
 
