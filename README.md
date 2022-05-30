@@ -3,6 +3,9 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
  
 <kbd>![](https://media1.giphy.com/media/nFFguNjdeotwc/giphy.gif?cid=ecf05e47l8xffyaa074cqmp4wh09mrmd30sih58631rk1bit&rid=giphy.gif&ct=g )</kbd>  
 
+
+<hr>
+
 <br>  
 <br> 
 
