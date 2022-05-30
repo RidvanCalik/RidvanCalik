@@ -6,8 +6,6 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 
 <hr>
 
-<br>  
-<br> 
 
 **My education background:**     
 Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
