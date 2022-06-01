@@ -8,17 +8,18 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 
 
 **My education background:**     
-Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
+> Şehit Büyük Elçi İsmail Erez MTAL IT & Web programing
 
 
 
 **My certificates**  
-[Web 101 from turkcell-gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101)
+> [Web 101 from turkcell-gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101)
 
 <hr>  
 
 **Front-end techs I know and learning:**  
-- Vue.js  
+- React.js (I'm learning new)  
+- Vue.js (I have experience more then React.JS)  
 - Bootstrap  
 - Jquery  
 - Scss  
