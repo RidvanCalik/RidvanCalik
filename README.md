@@ -34,10 +34,10 @@ Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
 
 
 I interested this techs:  
--Full-stack web developing  
--WEB Desing & UI/UX Desing  
--Machine Learning  
--Game Developing  
+- Full-stack web developing  
+- WEB Desing & UI/UX Desing  
+- Machine Learning  
+- Game Developing  
 
 <hr>  
 
