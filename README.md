@@ -1,5 +1,5 @@
 # Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
-> I'm developing myself on web techs...
+> I'm developing on web & mobile techs...
  
 <kbd>![](gif1.gif)</kbd>  
 
@@ -13,7 +13,7 @@
 
 
 **My certificates**  
-> [Web 101 from turkcell-gelecegiyazanlar](https://gelecegiyazanlar.turkcell.com.tr/kisi/belge/ridvancalik/Web%20Programlama/101)
+> ![](pre-accuating-certifica.pdf)
 
 <hr>  
 
