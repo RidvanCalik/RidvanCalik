@@ -13,19 +13,19 @@
 
 
 **My certificates**  
-> ![](pre-accuating-certifica.pdf)
+> [Pre Accounting Certificate](pre-accounting-certificate.pdf)
 
 <hr>  
 
-**Front-end techs I know and learning:**  
-- React.js (I'm learning new)  
-- Vue.js (I have experience more then React.JS)  
+**Front-end techs as I know**  
+- React.js  
+- Vue.js  
 - Bootstrap  
 - Jquery  
 - Scss  
 
 
-**Back-end techs I know and learning:**  
+**Back-end techs as I know **  
 - Php  
 - Mysql  
 - Nodejs  
@@ -33,7 +33,7 @@
 
 
 
-I interested this techs:  
+I'm interested this techs:  
 - Full-stack web developing  
 - WEB Desing & UI/UX Desing  
 - Machine Learning  
