@@ -1,4 +1,4 @@
-# Hi I'm Rıdvan, A.K.A Amateur Front-end Developer.
+# Hi I'm Rıdvan, A.K.A Junior Developer.
 > I'm developing on web & mobile techs...
  
 <kbd>![](gif1.gif)</kbd>  
@@ -17,7 +17,8 @@
 
 <hr>  
 
-**Front-end techs as I know**  
+### Front-end techs as I know ###    
+
 - React.js  
 - Vue.js  
 - Bootstrap  
@@ -25,15 +26,20 @@
 - Scss  
 
 
-**Back-end techs as I know **  
+### Back-end techs as I know ###
+
 - Php  
 - Mysql  
 - Nodejs  
 
+<br>
+<br>
+<br>
+<br>
 
 
 
-I'm interested this techs:  
+#### *Also I'm interested this techs !:* #### 
 - Full-stack web developing  
 - WEB Desing & UI/UX Desing  
 - Machine Learning  
