@@ -16,7 +16,7 @@
 
 <hr>  
 
-### Front-end techs as I know ###    
+** Front-end techs as I know **   
 
 - React.js  
 - Vue.js  
@@ -25,7 +25,7 @@
 - Scss  
 
 
-### Back-end techs as I know ###
+** Back-end techs as I know **
 
 - Php  
 - Mysql  
@@ -38,7 +38,7 @@
 
 
 
-#### *Also I'm interested this techs !:* #### 
+*** *Also I'm interested this techs !:* ***  
 - Full-stack web developing  
 - WEB Desing & UI/UX Desing  
 - Machine Learning  
