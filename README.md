@@ -1,7 +1,6 @@
 # Hi I'm Rıdvan, A.K.A Junior Developer.
 > I'm developing on web & mobile techs...
  
-<kbd>![](gif1.gif)</kbd>  
 
 
 <hr>
